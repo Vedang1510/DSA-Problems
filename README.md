@@ -1,2 +1,1 @@
-# DSA-Problems
-Solved DSA Problems using cpp
+This repository contains my solutions to various Data Structures and Algorithms problems implemented in C++. It serves as a comprehensive resource for anyone looking to improve their algorithmic problem-solving skills or prepare for coding interviews.
